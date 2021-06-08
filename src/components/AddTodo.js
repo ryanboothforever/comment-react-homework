@@ -13,7 +13,7 @@ const AddTodo = ({ onAdd }) => {
   };
 
   return (
-    //   Runs onSubmit method, which won't let anything submit if nothing is written?
+    //   Runs onSubmit method, which won't let anything submit if nothing is written?x
     <form onSubmit={onSubmit}>
       <label>Add Todo:</label>
       <input
